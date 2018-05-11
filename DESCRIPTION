@@ -1,0 +1,19 @@
+Package: drexplorerExtra
+Type: Package
+Title: Additions to drexplorer
+Version: 0.0.1
+Date: 2014-04-16
+Author: Pan Tong
+Maintainer: Pan Tong <nickytong@gmail.com>
+Description: Functionalities to analyze lung moonshot data
+Imports:
+    drexplorer,
+    foreach,
+    RColorBrewer,
+    squash,
+    ggplot2,
+    plyr,
+    reshape2,
+    knitr
+License: GPL-2
+RoxygenNote: 5.0.1

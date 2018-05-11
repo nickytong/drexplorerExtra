@@ -1,0 +1,31 @@
+----------------------------------------------------------------
+GenAnalysis 0.9.3
+----------------------------------------------------------------
+added functionality to 
+(1) format a data frame as factor and non-factor (df_format_df)
+
+
+----------------------------------------------------------------
+GenAnalysis 0.9.2
+----------------------------------------------------------------
+added functionality to 
+(1) compute cophenetic coefficient (copheneticCoef)
+(2) bootstrap dendrogram
+(3) Silhouette plot
+added utility to 
+(1) make a named color factor, used as a colpal for categorical variable (namedColVec)
+(2) maping to another name space for a vector (mapNames)
+(3) maping to another name space for a matrix (mapNames4mat)
+(4) maping (making) a color matrix by mapping a cattegorical matrix to a colorspace (makeColMat)
+----------------------------------------------------------------
+
+
+----------------------------------------------------------------
+----------------------------------------------------------------
+GenAnalysis 0.9.1
+----------------------------------------------------------------
+The first release
+(1) draw annotated heatmap (aheatmap)
+(1) draw annotated PCA (aPCA)
+----------------------------------------------------------------
+
